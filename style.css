@@ -1,0 +1,17 @@
+.logo {
+    background-color: rgb(48, 184, 184);
+    height: 130px;
+    color: white;
+}
+
+.navbar {
+    background-color: gray;
+    height: 30px;
+}
+.navbar li {
+    display: inline;
+   }
+
+.navbar a {
+    text-decoration: none;
+}
